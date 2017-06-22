@@ -14,4 +14,6 @@
   * Create Collections
   * Find Collections
   * Find Collections by Comparison Query Operators
+  * Find Collections using $elemMatch
+  
   
